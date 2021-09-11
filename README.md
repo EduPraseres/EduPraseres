@@ -5,6 +5,11 @@
 ![capa](https://github.com/EduPraseres/EduPraseres/blob/main/Capa-github2.png?raw=true)
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?EduPraseres=anuraghazra&show_icons=true&theme=radical)
+
+
+
 <!--
 **EduPraseres/EduPraseres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
