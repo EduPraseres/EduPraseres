@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F2FF&lines=Ol%C3%A1%2C+Seja+bem+vindo!;Prazer+sou+Eduardo!;Analista+de+Dados;e+Designer+Gr%C3%A1fico;Obrigado+pela+sua+visita!)](https://git.io/typing-svg)
 
 <!--
