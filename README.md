@@ -5,8 +5,7 @@
 ![capa](https://github.com/EduPraseres/EduPraseres/blob/main/Capa-github2.png?raw=true)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?EduPraseres=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/EduPraseres=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
