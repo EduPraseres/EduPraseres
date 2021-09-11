@@ -5,7 +5,11 @@
 ![capa](https://github.com/EduPraseres/EduPraseres/blob/main/Capa-github2.png?raw=true)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/EduPraseres=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/EduPraseres">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edupraseres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edupraseres&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 
