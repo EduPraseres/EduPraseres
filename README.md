@@ -1,4 +1,5 @@
 👨🏻‍💻👋
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=311E3E&size=30&lines=Ol%C3%A1%2C+Seja+Bem+Vindo!;Me+chamo+Eduardo...;Sou+Analista+de+Dados;e+Designer+Gr%C3%A1fico.;Adoro+n%C3%BAmeros%2C+gr%C3%A1ficos+;e+coisas+criativas...;Fique+a+vontade+por+aqui;e+volte+sempre!)](https://git.io/typing-svg)
 
 ![capa](https://github.com/EduPraseres/EduPraseres/blob/main/Capa-github2.png?raw=true)
